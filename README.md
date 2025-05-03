@@ -5,7 +5,7 @@
 
 <p>⚡️ A Few Quick Facts</p>
 <ul> 
-<li>😠 I DON'T Hate PHP (Yes, Really!)</li> 
+<li>🍎 Product Maker</li> 
 <li>💻 Fullstack Engineer Who Debugs with Coffee as Fuel</li> 
 <li>🤖 AI Integration Wizard </li> 
 <li>⏰ 4 Years of Transforming Crazy Ideas into Awesome Products</li> 
