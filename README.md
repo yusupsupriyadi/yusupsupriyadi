@@ -12,7 +12,7 @@
 <li>🎨 Professional Product Maker - Bringing Abstract Concepts to Life!</li> 
 </ul>
 
-<h3>🚀 Latest Product</h3>
+<h3>Notekita.com</h3>
 <p>
   <a href="https://notekita.com" target="_blank">
     <img src="./assets/notekita-thumbnail.png" alt="Notekita — Make your life lighter by half, with AI" width="100%" />
