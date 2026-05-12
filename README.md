@@ -11,3 +11,13 @@
 <li>⏰ 4 Years of Transforming Crazy Ideas into Awesome Products</li> 
 <li>🎨 Professional Product Maker - Bringing Abstract Concepts to Life!</li> 
 </ul>
+
+<h3>🚀 Latest Product</h3>
+<p>
+  <a href="https://notekita.com" target="_blank">
+    <img src="./assets/notekita-thumbnail.png" alt="Notekita — Make your life lighter by half, with AI" width="100%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://notekita.com" target="_blank"><b>Notekita</b></a> — Notes, reminders, finance tracking, and AI chat in one warm app.
+</p>
