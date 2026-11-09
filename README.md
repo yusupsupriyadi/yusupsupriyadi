@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://yusupsupriyadi.com/">Yusup Supriyadi</a></h2>
+<h2>Hey 👋, I'm <a href="https://yusupsupriyadi.com/">Yusup Supriyadi Solo Founder eksis.io</a></h2>
 <p>I work with passion, have strong enthusiasm for artificial intelligence, and possess advanced skills in AI integration.</p>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXd5c3hwMHUwdHlqNGg3Y3o5MWlsZmNwMm5iNTlycDBlZGtnandzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" />
 <p><a href="https://yusupsupriyadi.com">Me</a> | <a href="https://meowslim.id" target="_blank">Meowslim</a> | <a href="https://eksis.io">Eksis: Social Management</a> | <a href="https://ugc.eksis.io">Eksis UGC</a> | <a href="https://www.figma.com/@yusupsupriyadi" target="_blank">Figma</a> |
